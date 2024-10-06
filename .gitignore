@@ -1,0 +1,12 @@
+
+# Macのアレ
+.DS_Store
+
+# Windowsのアレ
+Thumbs.db
+
+# Composerのアレ
+vendor
+
+# Monologの出力先
+app/logs
